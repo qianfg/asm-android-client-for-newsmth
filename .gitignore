@@ -13,3 +13,7 @@ local.properties
 /libs/ViewPagerIndicator/gen
 /libs/drag-sort-listview/bin
 /libs/drag-sort-listview/gen
+.gradle
+/.idea/workspace.xml
+.DS_Store
+build/

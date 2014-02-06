@@ -1,4 +1,4 @@
 include ':'
 include ':libs:ViewPagerIndicator'
-include ':libs:ActionBarSherlock'
+//include ':libs:ActionBarSherlock'
 include ':libs:aFileChooser'
